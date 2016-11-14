@@ -2,11 +2,11 @@
  *  Monitor your Raspberry Pi using SmartThings and BerryIO SmartThings <https://github.com/nicholaswilde/berryio-smartthings>
  */
  
-import groovy.json.JsonSlurper;
-import com.google.common.base.Splitter;
-import java.util.List;
-import java.util.Map;
-import java.util.Map.Entry;
+import groovy.json.JsonSlurper
+import com.google.common.base.Splitter
+import java.util.List
+import java.util.Map
+import java.util.Map.Entry
 
 
 preferences {
